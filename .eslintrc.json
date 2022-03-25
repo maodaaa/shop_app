@@ -7,12 +7,19 @@
   "parser": "@babel/eslint-parser",
   "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:prettier/recommended"],
   "parserOptions": {
+    "requireConfigFile": "false",
     "ecmaVersion": "latest",
     "sourceType": "module",
     "ecmaFeatures": {
       "jsx": true,
       "modules": true,
+      "allowImportExportEverywhere": true,
       "experimentalObjectRestSpread": true
+    }
+  },
+  "settings": {
+    "import/parsers": {
+      "espree": [".js", ".jsx"]
     }
   },
   "plugins": ["react"],

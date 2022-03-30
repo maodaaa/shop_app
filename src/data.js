@@ -43,34 +43,34 @@ export const categories = [
 export const popularProducts = [
   {
     id: 1,
-    img: 'https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png'
+    img: 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/7/7f180865-2f29-4cf3-b6f7-a6121a8e0315.jpg'
   },
   {
     id: 2,
-    img: 'https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388'
+    img: 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/7/247bf6eb-0107-4654-9f60-124a55922f7d.jpg'
   },
   {
     id: 3,
-    img: 'https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png'
-  },
-  {
-    id: 4,
-    img: 'https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png'
+    img: 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/7/a941cdbc-2a57-4ea5-a132-51c5681b8a4e.jpg'
   },
   {
     id: 5,
     img: 'https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png'
   },
   {
-    id: 6,
-    img: 'https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png'
-  },
-  {
     id: 7,
-    img: 'https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png'
+    img: 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/7/e9a9fed9-6541-4d9d-9930-ece75414d4c8.jpg'
   },
   {
     id: 8,
-    img: 'https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png'
+    img: 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/14/0d97cc5f-39eb-409f-9a6a-72ebe5c2f5fb.jpg'
+  },
+  {
+    id: 9,
+    img: 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/7/61a69d9a-5055-4c2c-8cd4-0c9b6b60aac2.jpg'
+  },
+  {
+    id: 10,
+    img: 'https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/7/61a69d9a-5055-4c2c-8cd4-0c9b6b60aac2.jpg'
   }
 ];
